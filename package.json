@@ -1,0 +1,25 @@
+{
+  "name": "elon-twitter",
+  "version": "1.0.0",
+  "description": "Ever wanted Elon's tweets to automatically be sent on discord? Well I do.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelReeder/elon-twitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelReeder/elon-twitter/issues"
+  },
+  "homepage": "https://github.com/SamuelReeder/elon-twitter#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "node-fetch": "^3.2.3"
+  }
+}
